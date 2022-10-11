@@ -15,6 +15,6 @@ This repository is not a ready-to-deploy packaged library.
 
 ## How to contribute
 
-If you implement some matching algorithms, don't hesistate to pull requests.
+If you implement some matching algorithms, don't hesistate to open a PR describing the problem you solve.
 
-If you know open source implementations of matching algorithms, 
+If you know open source implementations of matching algorithms, open an issue or PR.
